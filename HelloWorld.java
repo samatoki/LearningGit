@@ -1,5 +1,6 @@
 class HelloWorld{
     public static void main(String[] args){
+        // Outputing to the terminal
         System.out.println("Hello World");
         System.out.println("This is a line I'm uploading to GitHub");
         // "staging" a file is called "commiting"
